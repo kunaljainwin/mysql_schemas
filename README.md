@@ -1,13 +1,9 @@
-# mysql_schemas
-
-- Contains 4  tables and their sample data
-
-# Process
+# Procedure 
 #### Create database
 ```sql
 create database salesreport;
 ```
-Add tbl_customer
+#### Add tbl_customer
 ```sql
 CREATE TABLE tbl_customer (
   nCustomerId int unsigned NOT NULL auto_increment,
@@ -22,7 +18,7 @@ CREATE TABLE tbl_customer (
 
 ```
 
-Add tbl_Address
+#### Add tbl_Address
 ```sql
 
 CREATE TABLE tbl_address (
@@ -37,7 +33,7 @@ CREATE TABLE tbl_address (
 ) AUTO_INCREMENT=1;
 
 ```
-Add tbl_itemmaster
+#### Add tbl_itemmaster
 ```sql
 CREATE TABLE tbl_itemmaster (
   nItemId int unsigned NOT NULL AUTO_INCREMENT,
@@ -48,7 +44,7 @@ CREATE TABLE tbl_itemmaster (
 ) AUTO_INCREMENT=1;
 
 ```
-Add tbl_purchaseorder
+#### Add tbl_purchaseorder
 ```sql
 CREATE TABLE tbl_purchaseorder (
   nOrderId int unsigned AUTO_INCREMENT,
