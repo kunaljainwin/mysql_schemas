@@ -2,7 +2,7 @@
 
 - Contains 4  tables and their sample data
 
-### Process
+# Process
 #### Create database
 ```sql
 create database salesreport;
