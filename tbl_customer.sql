@@ -412,4 +412,4 @@ VALUES
   (397,"Miranda Mills","Briggs","Mayer","2006-2-20","(713) 501-5516","M"),
   (398,"Todd Buck","Puckett","Mccarthy","2000-4-20","1-780-877-4710","M"),
   (399,"Guy Austin","Foreman","Dillon","2013-8-08","1-985-225-8856","F"),
-  (400,"Colby Bishop","Franklin","Sosa","2002-3-10","1-884-113-7024","F");
+  (400,"Colby Bishop","Franklin","Sosa","1972-3-10","1-884-113-7024","F");
